@@ -1,5 +1,7 @@
 # soccerplots
 
+* **NOTE: THIS PACKAGE HAS NOW BEEN MERGED WITH mplsoccer**. Check out this [link](https://github.com/andrewRowlinson/mplsoccer)
+
 * **soccerplots** is a Python package that can be used for making visualizations for football analytics.
 
 * The main aim of `soccerplots` is to save time for analysts so they can focus more on the analysis rather than coding the visualizations from scratch.
